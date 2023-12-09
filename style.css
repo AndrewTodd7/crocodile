@@ -1,6 +1,7 @@
 
 body {
     background-color: black;
+
 }
 
 h1, h2, h3, p, ul {
@@ -28,7 +29,11 @@ p, ul {
     font-family: "mixta-sharp-alt", serif;
     font-weight: 200;
     font-style: normal;
-    font-size: larger;
+    font-size: x-large;
+}
+
+p {
+    
 }
 
 #cover {
@@ -46,7 +51,7 @@ p, ul {
     padding-bottom: 7.5rem;
 }
 
-li {
+#nav, li {
 margin-left: 5rem;       
 display: inline-block;
 text-decoration: none;
@@ -55,6 +60,7 @@ position: relative;
 right: 120px;
 margin-top: 0.125rem;
 margin-bottom: 0.125rem;
+font-size: large;
 }
 
 #contactinfo {
@@ -90,4 +96,15 @@ a:visited {
 h2 {
     position: relative;
     top: 1.25rem;
+}
+
+#notion  {
+ position: relative;
+ right: 300px;
+}
+
+#email {
+    position: relative;
+    top: 1.875rem;
+    right: 33.625rem;
 }
