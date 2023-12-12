@@ -16,7 +16,7 @@ h1 {
     font-family: "miller-display", serif;
 font-weight: 400;
 font-style: normal;
-font-size: 60px;
+font-size: 3.75rem;
 color: #A6917E;
 }
 
@@ -41,6 +41,7 @@ p, ul {
 #cover {
    margin-left: 0%;
    margin-right: 0%;
+   max-width: 2000px;
 }
 
 .img {
@@ -102,14 +103,14 @@ h2 {
 
 
 #closing, #contactinfo {
-    margin-left: 25%;
-    margin-right: 40%;
+    margin-left: 35%;
+    margin-right: 35%;
     font-size: 1.125rem;
     text-align: center;
-    width: 50%;
+    width: 400px;
 }
 
 footer {
-    height: 300px;
+    height: 18.75rem;
 }
 
