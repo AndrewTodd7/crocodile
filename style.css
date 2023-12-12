@@ -102,12 +102,22 @@ h2 {
 
 
 
-#closing, #contactinfo {
+#closing, .contactinfo {
     margin-left: 35%;
-    margin-right: 35%;
+    margin-right: 30%;
     font-size: 1.125rem;
     text-align: center;
     width: 400px;
+}
+
+li:hover {
+    color: grey;
+}
+
+
+
+.contactinfo :hover {
+    color: grey;
 }
 
 footer {
