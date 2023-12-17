@@ -100,8 +100,6 @@ h2 {
     font-size: 1.125rem;
 }
 
-
-
 #closing, .contactinfo {
     margin-left: 35%;
     margin-right: 30%;
@@ -113,8 +111,6 @@ h2 {
 li:hover {
     color: grey;
 }
-
-
 
 .contactinfo :hover {
     color: grey;
